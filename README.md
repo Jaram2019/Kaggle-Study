@@ -4,7 +4,7 @@
 | Member | Branch |
 |---|---|
 |[정병길](https://github.com/ByeongGil-Jung) |[--](https://github.com/ByeongGil-Jung)|
-|[이하영](https://github.com/hy-kiera) |[--](https://github.com/Jaram2019/Kaggle-Study/tree/hy)|
+|[이하영](https://github.com/hy-kiera) |[hy](https://github.com/Jaram2019/Kaggle-Study/tree/hy)|
 |[권순범](https://github.com/RPF511) |[--](https://github.com/RPF511)|
 
 ### 2. Projects
