@@ -11,7 +11,7 @@
 1. 정병길
 - [1. What's Cooking](https://www.kaggle.com/c/whats-cooking-kernels-only)
 2. 이하영
-- [1. whale-categorization-playground](https://www.kaggle.com/c/whale-categorization-playground)
+- [1. A_Z Handwritten Alphabets](https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format)
 3. 권순범
 - [1. None](https://github.com/RPF511)
 
